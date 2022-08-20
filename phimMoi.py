@@ -43,7 +43,7 @@
 import streamlit
 
 st = streamlit.set_page_config(page_icon="meo.ico",page_title="phimmoi")
-st = streamlit.title("Hellu LANH")
+st = streamlit.title("Hellu Te")
 st = streamlit.title("Duoi day la danh sach nhac va phim")
 
 st = streamlit.video("ai muon nghe khong.mp4")
